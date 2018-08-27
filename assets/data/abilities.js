@@ -1,8 +1,9 @@
 module.exports = {
 
   "agile": {
-    name: "agile",
-    description: "Agile: Can be placed in either the Close Combat or Ranged Combat row. Cannot be moved once placed.",
+    name: "敏捷",
+    // description: "Agile: Can be placed in either the Close Combat or Ranged Combat row. Cannot be moved once placed.",
+    description: "敏捷：可以放置在近距离战斗或远程战斗行。放置后不能移动。",
     cancelPlacement: true,
     onBeforePlace: function(card){
       var self = this;
@@ -18,8 +19,9 @@ module.exports = {
     }
   },
   "medic": {
-    name: "medic",
-    description: "Medic: Choose one card from your discard pile (excluding heroes / special cards) to play instantly.",
+    name: "医生",
+    // description: "Medic: Choose one card from your discard pile (excluding heroes / special cards) to play instantly.",
+    description: "医生: 从你的弃牌中选择一张牌（不包括英雄/特制牌）立即入场。",
     waitResponse: true,
     onAfterPlace: function(card){
       var discard = this.getDiscard();
@@ -37,8 +39,9 @@ module.exports = {
     }
   },
   "morale_boost": {
-    name: "morale_boost",
-    description: "Morale Boost: Adds +1 strength to all units in the row, excluding itself.",
+    name: "鼓舞士气",
+    // description: "Morale Boost: Adds +1 strength to all units in the row, excluding itself.",
+    description: "鼓舞士气: 将1的强度添加到行中的所有单位中，不包括自身。",
     onEachCardPlace: function(card){
       var field = this.field[card.getType()];
       var id = card.getID();
@@ -63,6 +66,7 @@ module.exports = {
   },
   "muster": {
     name: "muster",
+    // description: "Muster: Find any cards with the same name in your deck and play them instantly.",
     description: "Muster: Find any cards with the same name in your deck and play them instantly.",
     onAfterPlace: function(card){
       var musterType = card.getMusterType();

@@ -1,5 +1,33 @@
 module.exports = {
-
+    "duanc": {
+        faction: "duanc",
+        data: [
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+            "redanian_foot_soldier",
+        ]
+    },
   "northern": {
     faction: "northern",
     data: [
