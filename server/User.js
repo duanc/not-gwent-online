@@ -45,7 +45,7 @@ var User = (function(){
   }
 
   r.generateName = function(){
-    var name = "Guest" + (((Math.random() * 8999) + 1000) | 0);
+    var name = "玩家:" + (((Math.random() * 8999) + 1000) | 0);
     this._name = name;
     return name;
   }
