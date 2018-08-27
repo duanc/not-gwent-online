@@ -1,0 +1,2625 @@
+
+.card-lg-monster {
+  background-image: url('../../public/build/cards-lg-monster.PNG');
+}
+
+.card-lg-monster-arachas1 {
+  background-position: -238px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-arachas2 {
+  background-position: -1666px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-arachas3 {
+  background-position: -476px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-arachas_behemoth {
+  background-position: -714px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-botchling {
+  background-position: -0px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-celaeno_harpy {
+  background-position: -238px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-cockatrice {
+  background-position: -476px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-crone_brewess {
+  background-position: -714px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-crone_weavess {
+  background-position: -952px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-crone_whispess {
+  background-position: -952px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-draug {
+  background-position: -1190px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-earth_elemental {
+  background-position: -1190px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-endrega {
+  background-position: -0px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-eredin_bringer {
+  background-position: -238px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-eredin_commander {
+  background-position: -476px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-eredin_destroyer {
+  background-position: -714px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-eredin_king {
+  background-position: -952px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-fiend {
+  background-position: -1190px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-fire_elemental {
+  background-position: -1428px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-foglet {
+  background-position: -1428px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-forktail {
+  background-position: -1428px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-frightener {
+  background-position: -0px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-gargoyle {
+  background-position: -1666px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-ghoul1 {
+  background-position: -1666px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-ghoul2 {
+  background-position: -0px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-ghoul3 {
+  background-position: -238px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-grave_hag {
+  background-position: -476px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-griffin {
+  background-position: -714px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-harpy {
+  background-position: -952px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-ice_giant {
+  background-position: -1190px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-imlerith {
+  background-position: -1428px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-kayran {
+  background-position: -1666px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-leshen {
+  background-position: -1904px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-nekker1 {
+  background-position: -1904px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-nekker2 {
+  background-position: -1904px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-nekker3 {
+  background-position: -1904px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-plague_maiden {
+  background-position: -2142px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-vampire_bruxa {
+  background-position: -2142px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-vampire_ekimmara {
+  background-position: -2142px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-vampire_fleder {
+  background-position: -2142px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-vampire_garkain {
+  background-position: -0px -1800px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-werewolf {
+  background-position: -238px -1800px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-monster-wyvern {
+  background-position: -476px -1800px;
+  width: 238px;
+  height: 450px;
+}
+
+.card-lg-neutral {
+  background-image: url('../../public/build/cards-lg-neutral.PNG');
+}
+
+.card-lg-neutral-avallach {
+  background-position: -238px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-ciri {
+  background-position: -952px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-clear {
+  background-position: -476px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-dandelion {
+  background-position: -714px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-decoy {
+  background-position: -0px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-fog {
+  background-position: -238px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-frost {
+  background-position: -476px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-geralt {
+  background-position: -714px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-horn {
+  background-position: -0px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-rain {
+  background-position: -952px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-scorch {
+  background-position: -1190px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-triss {
+  background-position: -1190px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-vesemir {
+  background-position: -0px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-villentretenmerth {
+  background-position: -238px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-yen {
+  background-position: -476px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-neutral-zoltan {
+  background-position: -714px -900px;
+  width: 238px;
+  height: 450px;
+}
+
+.card-lg-nilfgaardian {
+  background-image: url('../../public/build/cards-lg-nilfgaardian.PNG');
+}
+
+.card-lg-nilfgaardian-albrich {
+  background-position: -238px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-assire_var_anahid {
+  background-position: -1428px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-aux_archers1 {
+  background-position: -476px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-aux_archers2 {
+  background-position: -714px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-black_infantry_archer1 {
+  background-position: -0px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-black_infantry_archer2 {
+  background-position: -238px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-ceallach {
+  background-position: -476px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-cynthia {
+  background-position: -714px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-eggebracht {
+  background-position: -952px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-emhyr_emperor {
+  background-position: -952px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-emhyr_imperial {
+  background-position: -1190px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-emhyr_relentless {
+  background-position: -1190px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-emhyr_white {
+  background-position: -0px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-fire_scorpion {
+  background-position: -238px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-heavy_fire_scorpion {
+  background-position: -476px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-impera_brigade_guard {
+  background-position: -714px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-letho {
+  background-position: -952px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-menno {
+  background-position: -1190px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-morteisen {
+  background-position: -0px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-nausicaa_cavalry_rider {
+  background-position: -1428px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-puttkammer {
+  background-position: -1428px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-rainfarn {
+  background-position: -1666px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-renauld {
+  background-position: -1666px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-rotten_mangonel {
+  background-position: -1666px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-shilard {
+  background-position: -0px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-siege_engineer {
+  background-position: -238px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-siege_tech {
+  background-position: -476px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-stefan_skellen {
+  background-position: -714px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-sweers {
+  background-position: -952px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-vanhemar {
+  background-position: -1190px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-vattier {
+  background-position: -1428px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-vigo {
+  background-position: -1666px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-voorhis {
+  background-position: -1904px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-vreemde {
+  background-position: -1904px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-young_emissary1 {
+  background-position: -1904px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-nilfgaardian-young_emissary2 {
+  background-position: -1904px -1350px;
+  width: 238px;
+  height: 450px;
+}
+
+.card-lg-northern {
+  background-image: url('../../public/build/cards-lg-northern.PNG');
+}
+
+.card-lg-northern-ballista1 {
+  background-position: -238px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-ballista2 {
+  background-position: -1190px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-catapult {
+  background-position: -476px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-commando {
+  background-position: -714px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-crinfrid {
+  background-position: -0px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-dethmold {
+  background-position: -238px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-dijkstra {
+  background-position: -476px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-eilhart {
+  background-position: -714px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-foltest_commander {
+  background-position: -952px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-foltest_forged {
+  background-position: -952px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-foltest_king {
+  background-position: -1190px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-foltest_siege {
+  background-position: -1190px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-foot_soldier1 {
+  background-position: -0px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-foot_solider2 {
+  background-position: -238px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-infantry {
+  background-position: -476px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-keira {
+  background-position: -714px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-medic {
+  background-position: -952px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-natalis {
+  background-position: -0px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-roche {
+  background-position: -1428px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-sabrina {
+  background-position: -1428px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-siege_expert1 {
+  background-position: -1428px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-siege_expert2 {
+  background-position: -1666px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-siege_expert3 {
+  background-position: -1666px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-siege_tower {
+  background-position: -1666px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-siegfried {
+  background-position: -0px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-sile {
+  background-position: -238px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-skaggs {
+  background-position: -476px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-stennis {
+  background-position: -714px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-thaler {
+  background-position: -952px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-thyssen {
+  background-position: -1190px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-trebuchet1 {
+  background-position: -1428px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-trebuchet2 {
+  background-position: -1666px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-ves {
+  background-position: -1904px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-northern-yarpen {
+  background-position: -1904px -450px;
+  width: 238px;
+  height: 450px;
+}
+
+.card-lg-scoiatael {
+  background-image: url('../../public/build/cards-lg-scoiatael.PNG');
+}
+
+.card-lg-scoiatael-archer {
+  background-position: -238px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-barclay {
+  background-position: -1428px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-cranmer {
+  background-position: -476px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-defender1 {
+  background-position: -714px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-defender2 {
+  background-position: -0px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-defender3 {
+  background-position: -238px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-defender4 {
+  background-position: -476px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-defender5 {
+  background-position: -714px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-easnillien {
+  background-position: -952px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-eithne {
+  background-position: -952px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-elven_skirmisher1 {
+  background-position: -1190px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-elven_skirmisher2 {
+  background-position: -1190px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-elven_skirmisher3 {
+  background-position: -0px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-fidhail {
+  background-position: -238px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-francesca_beautiful {
+  background-position: -476px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-francesca_daisy {
+  background-position: -714px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-francesca_pureblood {
+  background-position: -952px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-francesca_queen {
+  background-position: -1190px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-healer {
+  background-position: -1428px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-healer2 {
+  background-position: -1428px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-healer3 {
+  background-position: -0px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-iorveth {
+  background-position: -1666px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-isengrim {
+  background-position: -1666px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-milva {
+  background-position: -1666px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-recruit {
+  background-position: -0px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-riordain {
+  background-position: -238px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-saesenthessis {
+  background-position: -476px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-scout1 {
+  background-position: -714px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-scout2 {
+  background-position: -952px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-scout3 {
+  background-position: -1190px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-sivney {
+  background-position: -1428px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-skirmisher1 {
+  background-position: -1666px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-skirmisher2 {
+  background-position: -1904px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-skirmisher3 {
+  background-position: -1904px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-smuggler1 {
+  background-position: -1904px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-smuggler2 {
+  background-position: -1904px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-smuggler3 {
+  background-position: -2142px -0px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-toruviel {
+  background-position: -2142px -450px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-veteran1 {
+  background-position: -2142px -900px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-veteran2 {
+  background-position: -2142px -1350px;
+  width: 238px;
+  height: 450px;
+}
+.card-lg-scoiatael-yaevinn {
+  background-position: -0px -1800px;
+  width: 238px;
+  height: 450px;
+}
+
+.card-sm-monster {
+  background-image: url('../../public/build/cards-sm-monster.PNG');
+}
+
+.card-sm-monster-arachas1 {
+  background-position: -63px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-arachas2 {
+  background-position: -441px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-arachas3 {
+  background-position: -126px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-arachas_behemoth {
+  background-position: -189px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-botchling {
+  background-position: -0px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-celaeno_harpy {
+  background-position: -63px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-cockatrice {
+  background-position: -126px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-crone_brewess {
+  background-position: -189px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-crone_weavess {
+  background-position: -252px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-crone_whispess {
+  background-position: -252px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-draug {
+  background-position: -315px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-earth_elemental {
+  background-position: -315px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-endrega {
+  background-position: -0px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-eredin_bringer {
+  background-position: -63px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-eredin_commander {
+  background-position: -126px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-eredin_destroyer {
+  background-position: -189px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-eredin_king {
+  background-position: -252px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-fiend {
+  background-position: -315px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-fire_elemental {
+  background-position: -378px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-foglet {
+  background-position: -378px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-forktail {
+  background-position: -378px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-frightener {
+  background-position: -0px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-gargoyle {
+  background-position: -441px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-ghoul1 {
+  background-position: -441px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-ghoul2 {
+  background-position: -0px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-ghoul3 {
+  background-position: -63px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-grave_hag {
+  background-position: -126px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-griffin {
+  background-position: -189px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-harpy {
+  background-position: -252px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-ice_giant {
+  background-position: -315px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-imlerith {
+  background-position: -378px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-kayran {
+  background-position: -441px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-leshen {
+  background-position: -504px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-nekker1 {
+  background-position: -504px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-nekker2 {
+  background-position: -504px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-nekker3 {
+  background-position: -504px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-plague_maiden {
+  background-position: -567px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-vampire_bruxa {
+  background-position: -567px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-vampire_ekimmara {
+  background-position: -567px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-vampire_fleder {
+  background-position: -567px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-vampire_garkain {
+  background-position: -0px -476px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-werewolf {
+  background-position: -63px -476px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-monster-wyvern {
+  background-position: -126px -476px;
+  width: 63px;
+  height: 119px;
+}
+
+.card-sm-neutral {
+  background-image: url('../../public/build/cards-sm-neutral.PNG');
+}
+
+.card-sm-neutral-avallach {
+  background-position: -63px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-ciri {
+  background-position: -252px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-clear {
+  background-position: -126px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-dandelion {
+  background-position: -189px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-decoy {
+  background-position: -0px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-fog {
+  background-position: -63px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-frost {
+  background-position: -126px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-geralt {
+  background-position: -189px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-horn {
+  background-position: -0px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-rain {
+  background-position: -252px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-scorch {
+  background-position: -315px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-triss {
+  background-position: -315px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-vesemir {
+  background-position: -0px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-villentretenmerth {
+  background-position: -63px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-yen {
+  background-position: -126px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-neutral-zoltan {
+  background-position: -189px -238px;
+  width: 63px;
+  height: 119px;
+}
+
+.card-sm-nilfgaardian {
+  background-image: url('../../public/build/cards-sm-nilfgaardian.PNG');
+}
+
+.card-sm-nilfgaardian-albrich {
+  background-position: -63px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-assire_var_anahid {
+  background-position: -378px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-aux_archers1 {
+  background-position: -126px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-aux_archers2 {
+  background-position: -189px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-black_infantry_archer1 {
+  background-position: -0px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-black_infantry_archer2 {
+  background-position: -63px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-ceallach {
+  background-position: -126px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-cynthia {
+  background-position: -189px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-eggebracht {
+  background-position: -252px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-emhyr_emperor {
+  background-position: -252px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-emhyr_imperial {
+  background-position: -315px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-emhyr_relentless {
+  background-position: -315px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-emhyr_white {
+  background-position: -0px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-fire_scorpion {
+  background-position: -63px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-heavy_fire_scorpion {
+  background-position: -126px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-impera_brigade_guard {
+  background-position: -189px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-letho {
+  background-position: -252px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-menno {
+  background-position: -315px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-morteisen {
+  background-position: -0px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-nausicaa_cavalry_rider {
+  background-position: -378px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-puttkammer {
+  background-position: -378px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-rainfarn {
+  background-position: -441px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-renauld {
+  background-position: -441px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-rotten_mangonel {
+  background-position: -441px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-shilard {
+  background-position: -0px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-siege_engineer {
+  background-position: -63px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-siege_tech {
+  background-position: -126px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-stefan_skellen {
+  background-position: -189px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-sweers {
+  background-position: -252px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-vanhemar {
+  background-position: -315px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-vattier {
+  background-position: -378px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-vigo {
+  background-position: -441px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-voorhis {
+  background-position: -504px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-vreemde {
+  background-position: -504px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-young_emissary1 {
+  background-position: -504px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-nilfgaardian-young_emissary2 {
+  background-position: -504px -357px;
+  width: 63px;
+  height: 119px;
+}
+
+.card-sm-northern {
+  background-image: url('../../public/build/cards-sm-northern.PNG');
+}
+
+.card-sm-northern-ballista1 {
+  background-position: -63px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-ballista2 {
+  background-position: -315px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-catapult {
+  background-position: -126px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-commando {
+  background-position: -189px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-crinfrid {
+  background-position: -0px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-dethmold {
+  background-position: -63px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-dijkstra {
+  background-position: -126px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-eilhart {
+  background-position: -189px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-foltest_commander {
+  background-position: -252px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-foltest_forged {
+  background-position: -252px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-foltest_king {
+  background-position: -315px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-foltest_siege {
+  background-position: -315px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-foot_soldier1 {
+  background-position: -0px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-foot_solider2 {
+  background-position: -63px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-infantry {
+  background-position: -126px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-keira {
+  background-position: -189px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-medic {
+  background-position: -252px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-natalis {
+  background-position: -0px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-roche {
+  background-position: -378px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-sabrina {
+  background-position: -378px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-siege_expert1 {
+  background-position: -378px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-siege_expert2 {
+  background-position: -441px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-siege_expert3 {
+  background-position: -441px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-siege_tower {
+  background-position: -441px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-siegfried {
+  background-position: -0px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-sile {
+  background-position: -63px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-skaggs {
+  background-position: -126px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-stennis {
+  background-position: -189px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-thaler {
+  background-position: -252px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-thyssen {
+  background-position: -315px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-trebuchet1 {
+  background-position: -378px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-trebuchet2 {
+  background-position: -441px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-ves {
+  background-position: -504px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-northern-yarpen {
+  background-position: -504px -119px;
+  width: 63px;
+  height: 119px;
+}
+
+.card-sm-scoiatael {
+  background-image: url('../../public/build/cards-sm-scoiatael.PNG');
+}
+
+.card-sm-scoiatael-archer {
+  background-position: -63px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-barclay {
+  background-position: -378px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-cranmer {
+  background-position: -126px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-defender1 {
+  background-position: -189px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-defender2 {
+  background-position: -0px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-defender3 {
+  background-position: -63px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-defender4 {
+  background-position: -126px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-defender5 {
+  background-position: -189px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-easnillien {
+  background-position: -252px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-eithne {
+  background-position: -252px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-elven_skirmisher1 {
+  background-position: -315px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-elven_skirmisher2 {
+  background-position: -315px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-elven_skirmisher3 {
+  background-position: -0px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-fidhail {
+  background-position: -63px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-francesca_beautiful {
+  background-position: -126px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-francesca_daisy {
+  background-position: -189px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-francesca_pureblood {
+  background-position: -252px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-francesca_queen {
+  background-position: -315px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-healer {
+  background-position: -378px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-healer2 {
+  background-position: -378px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-healer3 {
+  background-position: -0px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-iorveth {
+  background-position: -441px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-isengrim {
+  background-position: -441px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-milva {
+  background-position: -441px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-recruit {
+  background-position: -0px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-riordain {
+  background-position: -63px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-saesenthessis {
+  background-position: -126px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-scout1 {
+  background-position: -189px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-scout2 {
+  background-position: -252px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-scout3 {
+  background-position: -315px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-sivney {
+  background-position: -378px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-skirmisher1 {
+  background-position: -441px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-skirmisher2 {
+  background-position: -504px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-skirmisher3 {
+  background-position: -504px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-smuggler1 {
+  background-position: -504px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-smuggler2 {
+  background-position: -504px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-smuggler3 {
+  background-position: -567px -0px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-toruviel {
+  background-position: -567px -119px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-veteran1 {
+  background-position: -567px -238px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-veteran2 {
+  background-position: -567px -357px;
+  width: 63px;
+  height: 119px;
+}
+.card-sm-scoiatael-yaevinn {
+  background-position: -0px -476px;
+  width: 63px;
+  height: 119px;
+}
+
+.card-md-neutral {
+  background-image: url('../../public/build/cards-md-neutral.PNG');
+}
+
+.card-md-neutral-avallach {
+  background-position: -150px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-ciri {
+  background-position: -600px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-clear {
+  background-position: -300px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-dandelion {
+  background-position: -450px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-decoy {
+  background-position: -0px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-fog {
+  background-position: -150px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-frost {
+  background-position: -300px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-geralt {
+  background-position: -450px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-horn {
+  background-position: -0px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-rain {
+  background-position: -600px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-scorch {
+  background-position: -750px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-triss {
+  background-position: -750px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-vesemir {
+  background-position: -0px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-villentretenmerth {
+  background-position: -150px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-yen {
+  background-position: -300px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-neutral-zoltan {
+  background-position: -450px -568px;
+  width: 150px;
+  height: 284px;
+}
+
+.card-md-monster {
+  background-image: url('../../public/build/cards-md-monster.PNG');
+}
+
+.card-md-monster-arachas1 {
+  background-position: -150px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-arachas2 {
+  background-position: -1050px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-arachas3 {
+  background-position: -300px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-arachas_behemoth {
+  background-position: -450px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-botchling {
+  background-position: -0px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-celaeno_harpy {
+  background-position: -150px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-cockatrice {
+  background-position: -300px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-crone_brewess {
+  background-position: -450px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-crone_weavess {
+  background-position: -600px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-crone_whispess {
+  background-position: -600px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-draug {
+  background-position: -750px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-earth_elemental {
+  background-position: -750px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-endrega {
+  background-position: -0px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-eredin_bringer {
+  background-position: -150px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-eredin_commander {
+  background-position: -300px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-eredin_destroyer {
+  background-position: -450px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-eredin_king {
+  background-position: -600px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-fiend {
+  background-position: -750px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-fire_elemental {
+  background-position: -900px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-foglet {
+  background-position: -900px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-forktail {
+  background-position: -900px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-frightener {
+  background-position: -0px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-gargoyle {
+  background-position: -1050px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-ghoul1 {
+  background-position: -1050px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-ghoul2 {
+  background-position: -0px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-ghoul3 {
+  background-position: -150px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-grave_hag {
+  background-position: -300px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-griffin {
+  background-position: -450px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-harpy {
+  background-position: -600px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-ice_giant {
+  background-position: -750px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-imlerith {
+  background-position: -900px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-kayran {
+  background-position: -1050px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-leshen {
+  background-position: -1200px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-nekker1 {
+  background-position: -1200px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-nekker2 {
+  background-position: -1200px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-nekker3 {
+  background-position: -1200px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-plague_maiden {
+  background-position: -1350px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-vampire_bruxa {
+  background-position: -1350px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-vampire_ekimmara {
+  background-position: -1350px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-vampire_fleder {
+  background-position: -1350px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-vampire_garkain {
+  background-position: -0px -1136px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-werewolf {
+  background-position: -150px -1136px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-monster-wyvern {
+  background-position: -300px -1136px;
+  width: 150px;
+  height: 284px;
+}
+
+.card-md-northern {
+  background-image: url('../../public/build/cards-md-northern.PNG');
+}
+
+.card-md-northern-ballista1 {
+  background-position: -150px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-ballista2 {
+  background-position: -750px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-catapult {
+  background-position: -300px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-commando {
+  background-position: -450px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-crinfrid {
+  background-position: -0px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-dethmold {
+  background-position: -150px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-dijkstra {
+  background-position: -300px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-eilhart {
+  background-position: -450px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-foltest_commander {
+  background-position: -600px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-foltest_forged {
+  background-position: -600px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-foltest_king {
+  background-position: -750px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-foltest_siege {
+  background-position: -750px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-foot_soldier1 {
+  background-position: -0px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-foot_solider2 {
+  background-position: -150px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-infantry {
+  background-position: -300px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-keira {
+  background-position: -450px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-medic {
+  background-position: -600px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-natalis {
+  background-position: -0px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-roche {
+  background-position: -900px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-sabrina {
+  background-position: -900px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-siege_expert1 {
+  background-position: -900px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-siege_expert2 {
+  background-position: -1050px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-siege_expert3 {
+  background-position: -1050px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-siege_tower {
+  background-position: -1050px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-siegfried {
+  background-position: -0px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-sile {
+  background-position: -150px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-skaggs {
+  background-position: -300px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-stennis {
+  background-position: -450px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-thaler {
+  background-position: -600px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-thyssen {
+  background-position: -750px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-trebuchet1 {
+  background-position: -900px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-trebuchet2 {
+  background-position: -1050px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-ves {
+  background-position: -1200px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-northern-yarpen {
+  background-position: -1200px -284px;
+  width: 150px;
+  height: 284px;
+}
+
+.card-md-nilfgaardian {
+  background-image: url('../../public/build/cards-md-nilfgaardian.PNG');
+}
+
+.card-md-nilfgaardian-albrich {
+  background-position: -150px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-assire_var_anahid {
+  background-position: -900px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-aux_archers1 {
+  background-position: -300px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-aux_archers2 {
+  background-position: -450px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-black_infantry_archer1 {
+  background-position: -0px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-black_infantry_archer2 {
+  background-position: -150px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-ceallach {
+  background-position: -300px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-cynthia {
+  background-position: -450px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-eggebracht {
+  background-position: -600px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-emhyr_emperor {
+  background-position: -600px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-emhyr_imperial {
+  background-position: -750px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-emhyr_relentless {
+  background-position: -750px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-emhyr_white {
+  background-position: -0px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-fire_scorpion {
+  background-position: -150px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-heavy_fire_scorpion {
+  background-position: -300px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-impera_brigade_guard {
+  background-position: -450px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-letho {
+  background-position: -600px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-menno {
+  background-position: -750px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-morteisen {
+  background-position: -0px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-nausicaa_cavalry_rider {
+  background-position: -900px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-puttkammer {
+  background-position: -900px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-rainfarn {
+  background-position: -1050px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-renauld {
+  background-position: -1050px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-rotten_mangonel {
+  background-position: -1050px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-shilard {
+  background-position: -0px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-siege_engineer {
+  background-position: -150px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-siege_tech {
+  background-position: -300px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-stefan_skellen {
+  background-position: -450px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-sweers {
+  background-position: -600px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-vanhemar {
+  background-position: -750px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-vattier {
+  background-position: -900px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-vigo {
+  background-position: -1050px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-voorhis {
+  background-position: -1200px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-vreemde {
+  background-position: -1200px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-young_emissary1 {
+  background-position: -1200px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-nilfgaardian-young_emissary2 {
+  background-position: -1200px -852px;
+  width: 150px;
+  height: 284px;
+}
+
+.card-md-scoiatael {
+  background-image: url('../../public/build/cards-md-scoiatael.PNG');
+}
+
+.card-md-scoiatael-archer {
+  background-position: -150px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-barclay {
+  background-position: -900px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-cranmer {
+  background-position: -300px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-defender1 {
+  background-position: -450px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-defender2 {
+  background-position: -0px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-defender3 {
+  background-position: -150px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-defender4 {
+  background-position: -300px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-defender5 {
+  background-position: -450px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-easnillien {
+  background-position: -600px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-eithne {
+  background-position: -600px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-elven_skirmisher1 {
+  background-position: -750px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-elven_skirmisher2 {
+  background-position: -750px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-elven_skirmisher3 {
+  background-position: -0px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-fidhail {
+  background-position: -150px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-francesca_beautiful {
+  background-position: -300px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-francesca_daisy {
+  background-position: -450px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-francesca_pureblood {
+  background-position: -600px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-francesca_queen {
+  background-position: -750px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-healer {
+  background-position: -900px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-healer2 {
+  background-position: -900px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-healer3 {
+  background-position: -0px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-iorveth {
+  background-position: -1050px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-isengrim {
+  background-position: -1050px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-milva {
+  background-position: -1050px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-recruit {
+  background-position: -0px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-riordain {
+  background-position: -150px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-saesenthessis {
+  background-position: -300px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-scout1 {
+  background-position: -450px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-scout2 {
+  background-position: -600px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-scout3 {
+  background-position: -750px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-sivney {
+  background-position: -900px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-skirmisher1 {
+  background-position: -1050px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-skirmisher2 {
+  background-position: -1200px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-skirmisher3 {
+  background-position: -1200px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-smuggler1 {
+  background-position: -1200px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-smuggler2 {
+  background-position: -1200px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-smuggler3 {
+  background-position: -1350px -0px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-toruviel {
+  background-position: -1350px -284px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-veteran1 {
+  background-position: -1350px -568px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-veteran2 {
+  background-position: -1350px -852px;
+  width: 150px;
+  height: 284px;
+}
+.card-md-scoiatael-yaevinn {
+  background-position: -0px -1136px;
+  width: 150px;
+  height: 284px;
+}
